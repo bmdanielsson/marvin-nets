@@ -31,5 +31,5 @@ Marvin 4.0.1. It was trained with --use-factorizer.
 
 **net-422c365.nnue**
 
-This net was trained using 1B positions searched to depth 8 using
+The default net for Marvin 5.2.0. This net was trained using 1B positions searched to depth 8 using
 Marvin 5.1.0 and NNUE evaluation. It was trained with --use-factorizer.

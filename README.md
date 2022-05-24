@@ -33,3 +33,15 @@ Marvin 4.0.1. It was trained with --use-factorizer.
 
 The default net for Marvin 5.2.0. This net was trained using 1B positions searched to depth 8 using
 Marvin 5.1.0 and net-f2a8e0f.nnue for evaluation. It was trained with --use-factorizer.
+
+# v4 nets
+
+The v4 format uses the HalfKP 256x2-32-32-1 architecture. Additionally
+quantization have been moved to the engine. This format is used for
+Marvin > 6.0.0.
+
+**net-9ef737e9.nnue**
+
+This net was trained using 3B positions searched to depth 8 using. It was
+trained with --use-factorizer.
+

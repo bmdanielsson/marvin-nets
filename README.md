@@ -52,7 +52,7 @@ used for Marvin > 6.0.0.
 
 **net-710faff.nnue**
 
-This net was trained using 3B positions searched to depth 8 using. It was
+This net was trained using 3B positions searched to depth 8. It was
 trained with --use-factorizer.
 
 # v7 nets
@@ -62,6 +62,6 @@ used for Marvin > 6.2.0.
 
 **net-0d21cd7.nnue**
 
-This net was trained using 3B positions searched to depth 8 using. It was
+This net was trained using 3B positions searched to depth 8. It was
 trained with --use-factorizer.
 

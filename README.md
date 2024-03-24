@@ -42,7 +42,7 @@ of Marvin.
 
 **net-9ef737e9.nnue**
 
-This net was trained using 3B positions searched to depth 8 using. It was
+This net was trained using 3B positions searched to depth 8. It was
 trained with --use-factorizer.
 
 # v5 nets

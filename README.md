@@ -54,3 +54,14 @@ used for Marvin > 6.0.0.
 
 This net was trained using 3B positions searched to depth 8 using. It was
 trained with --use-factorizer.
+
+# v7 nets
+
+The v7 format uses the HalfKP 256x2-8-16-1 architecture. This format is
+used for Marvin > 6.2.0.
+
+**net-0d21cd7.nnue**
+
+This net was trained using 3B positions searched to depth 8 using. It was
+trained with --use-factorizer.
+
